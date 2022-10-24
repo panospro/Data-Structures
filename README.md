@@ -1,4 +1,4 @@
-# Data-Structures
+# Data-Structures-1
 
 ## Trying to make a game about Theseus and the Minotaur in 4 projects
 
@@ -39,5 +39,5 @@
 * evaluate
 * chooseMinMaxMove
 
-### *Notes*: there might be some errors in this project 
+### *Notes*: there might be some errors in the third project 
 
