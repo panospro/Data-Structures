@@ -1,4 +1,4 @@
-# Data-Structures-1
+# Data-Structures
 
 ## Trying to make a game about Theseus and the Minotaur in 4 projects
 
