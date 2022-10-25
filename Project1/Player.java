@@ -5,7 +5,7 @@ public class Player {
 	
 	int playerId;// the player code.
 	String name; //the player's name.
-	Board board? // the game board.
+	Board board; // the game board.
 	int score; // the player's score, which goes up by one each time they find a supply.
 	int x; // the x coordinate of the tile where the player is
 	int y; // the y coordinate of the tile where the player is
