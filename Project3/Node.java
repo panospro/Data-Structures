@@ -17,7 +17,7 @@ public class Node {
 	
 	private int Width; //Variable that represents the available moves ie the maximum number of children the Node can have
 	
-	private double evaluation? //Variable with the evaluation only for the specific movement represented by the Node
+	private double evaluation; //Variable with the evaluation only for the specific movement represented by the Node
 	
 
 	public Node() {
