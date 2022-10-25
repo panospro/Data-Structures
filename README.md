@@ -41,3 +41,5 @@
 
 ### *Notes*: there might be some errors in the third project 
 
+### *Disclaimer*: If there is an error in the code its from the translation and it's easily fixed (e.g ? -> ; , breaks? -> break;)
+
